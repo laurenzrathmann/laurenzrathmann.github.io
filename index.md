@@ -1,5 +1,4 @@
 ---
 layout: default
 ---
-
-Hello World :)
+[mail@laurenzrathmann.com](mailto:mail@laurenzrathmann.com)
